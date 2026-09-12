@@ -1,0 +1,2 @@
+Привет, EgorAlx! Твоя папка готова: users/EgorAlx
+Готово. Запись добавлена в /home/ubuntu/my-sysadmin-scripts/setup.log
